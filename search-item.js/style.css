@@ -1,0 +1,37 @@
+.hide {
+  display: none;
+}
+
+.wrap {
+  background: #ccc;
+  width: 25rem;
+  padding: 20rem;
+  height: 50rem;
+}
+
+.h1 {
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+input {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 80%;
+  margin-left: 2rem;
+  outline: none;
+  box-sizing: border-box;
+}
+
+ul {
+  padding-bottom: 5rem;
+}
+
+ul li {
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: bold;
+}

@@ -1,0 +1,24 @@
+.q-all {
+  width: 30rem;
+  margin: 0 auto;
+  padding: 10rem;
+  background-color: burlywood;
+  font-size: large;
+}
+
+label {
+  font-size: 1.1rem;
+  color: rgb(41, 41, 106);
+}
+
+button {
+  width: 8rem;
+  height: 2rem;
+  font-size: 0.8rem;
+}
+
+input {
+  width: 15rem;
+  height: 1.4rem;
+  margin-top: 0.8rem;
+}
