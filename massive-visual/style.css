@@ -1,0 +1,41 @@
+html,
+body {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 100rem;
+}
+
+select,
+input,
+button {
+  padding: 8px;
+  font-size: 1rem;
+}
+
+.array::after {
+  content: ']';
+  font-size: 5rem;
+}
+.array::before {
+  content: '[';
+  font-size: 5rem;
+}
+
+.array {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: stretch;
+}
+
+.array div {
+  position: relative;
+  font-size: 30px;
+  display: flex;
+}

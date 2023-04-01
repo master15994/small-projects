@@ -1,3 +1,5 @@
+
+
 let activeTabId = 'goods';
 
 const initialTab = getActiveTab();
